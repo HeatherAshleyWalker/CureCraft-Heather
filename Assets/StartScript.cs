@@ -14,7 +14,7 @@ public class StartScript : MonoBehaviour
     public void StartGame()
     {
 
-        SceneManager.LoadScene("tunnelvessel"); //need to update to level 1 when created
+        SceneManager.LoadScene("Level1"); //need to update to level 1 when created
 
     }
 }
